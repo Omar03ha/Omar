@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Omar Hammouda</h1>
-<h3 align="center">I really enjoy learning languages and frameworks like React...,I also enjoy design</h3>
+<h3 align="center">I really enjoy learning languages and frameworks ,I also enjoy design</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar03ha&label=Profile%20views&color=0e75b6&style=flat" alt="omar03ha" /> </p>
